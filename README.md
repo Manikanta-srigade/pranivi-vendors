@@ -39,7 +39,7 @@
 | Technology | Purpose |
 |------------|---------|
 | **Python** | AI Models and Data Processing |
-| **Ethereum / Polygon** | Blockchain Smart Contracts |
+| **Algorand Blockchain** | Blockchain Smart Contracts |
 | **IPFS** | Decentralized Data Storage |
 | **Node.js / Express** | Backend API |
 | **React / Next.js** | Frontend Dashboard |
